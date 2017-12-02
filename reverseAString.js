@@ -1,3 +1,4 @@
+function r(s){return s.split("").reverse().join("");}r("Hello");
 
 function reverseString(str) {
   
@@ -22,3 +23,4 @@ function reverseString(str) {
     
     return reverseStr;
 }
+console.log(reverseString("Geromy Cunningham"));
